@@ -1,0 +1,21 @@
+## First sprint task
+
+My group decided that I will be the Sprint Master for this sprint, Yan and I decided to do the home page and the log in page first as it will be good for the foundation of the website. Later on this sprint, Elise told us to scrap the idea as she will be helping us on what to put on our first sprint. Our group decided to make the database diagram as we feel that it would be our best thing to do early this sprint because it will help our client to understand more about the back-end of our website then we jumped on making our first page. I made sure that I am focused on my this task as I want to produce something working as quickly as possible.
+
+Giving the customer something that is working is one of the principles of the Agile Manifesto. By focusing of what I need to do helped me achieve this principle.
+
+[Database Diagram](https://drive.google.com/file/d/1KdremsZDbB3WQ6wW-DM8zoShSioTNoJ3/view)
+
+
+## Issues
+
+##### 15/08/2019
+The first issue that we had is with Yan, she had a problem with an error message saying that she cant register and turned out that her branch isn't up to date on our current working one. We decided from that start to remind everyone everytime we push new stuff to push it on Development branch so that everyone will know the current latest version.
+
+##### 05/09/2019
+
+We had a meeting with the customer and he wanted us to make the website to be community driven and be able for anyone to delete any user from the database which we told him that is a huge problem with the security as everyone can just delete everyone. As our group is agile, we decided to do what the customer wants as it is one of the principle of the agile manifesto ( satisfied customer ) and just we just know that this will be changed in the future and we are open to changes (also part of the agile manifesto ).
+
+##### 26/09/2019
+
+Got stuck with the add score as one of our member hasn't been doing his task for the sprint, so Yan and I decided to completely redo this part of our website and make it her own way. This way, she can easily identify the problems.
