@@ -20,7 +20,11 @@ Then under Advanced, click “Environment Variables”
 
 ![3rd](https://github.com/amorjk1/Project-1/blob/master/assets/images/installation3.png?raw=true)
 
-Then under System variables, go under “Path” then edit it and make a new one and write down “C:\Users\username\AppData\Roaming\npm”
+Then under System variables, scroll down under “Path” then edit it and make a new one and write down “C:\Users\username\AppData\Roaming\npm”
+
+![4th](https://github.com/amorjk1/Project-1/blob/master/assets/images/installation4.png?raw=true)
+
+![5th](https://github.com/amorjk1/Project-1/blob/master/assets/images/installation5.png?raw=true)
 
 Then run “expo init”
 
