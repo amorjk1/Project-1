@@ -2,8 +2,10 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to first page.
 
 _yay_
 
-[back](./)
+
+[Link to another page](./another-page.html).
+
