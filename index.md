@@ -10,15 +10,15 @@ Create a folder on wherever you want to put your project.
 
 Navigate to that folder by using cmd and type “npm install -g expo-cli”
 
-~~~ PICTURE ~~~
+![1st](https://github.com/amorjk1/Project-1/blob/master/assets/images/installation1.png?raw=true)
 
 If you’re using the op computer then you have to make a new system variable, to do this you need to search “variables” in your computer.
 
-~~~ PICTURE ~~~
+![2nd](https://github.com/amorjk1/Project-1/blob/master/assets/images/installation2.png?raw=true)
 
 Then under Advanced, click “Environment Variables”
 
-~~~ PICTURE ~~~
+![3rd](https://github.com/amorjk1/Project-1/blob/master/assets/images/installation3.png?raw=true)
 
 Then under System variables, go under “Path” then edit it and make a new one and write down “C:\Users\username\AppData\Roaming\npm”
 
