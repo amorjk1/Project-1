@@ -1,3 +1,2 @@
-/_site
-.*
-!/.gitignore
+.jekyll-metadata
+_site
