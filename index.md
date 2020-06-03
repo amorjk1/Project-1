@@ -7,3 +7,4 @@ layout: default
 
 [Installation](./installation-page.html).
 
+[Sprint 1](./sprint1.html).
