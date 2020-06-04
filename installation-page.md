@@ -52,6 +52,8 @@ Then under System variables, scroll down under “Path” then edit it and make 
 
 Then run “expo init”
 
+[back](./)
+
 
 [Link to another page](./another-page.html).
 
