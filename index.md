@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Jommel's Portfolio
+# Jommel's Portfolio
 
 
 [Installation](./installation-page.html)
