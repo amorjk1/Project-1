@@ -16,7 +16,7 @@ Getting the application to run on my personal device, it took me a while for me 
 
 ## What do I need to do for the next sprint?
 
-Communicate with Renz and get the credentialz for the account that they used to publish the app so that we can access the database for this app.
+Communicate with Renz(previous developer) and get the credentials for the account that they used to publish the app so that we can access the database for this app.
 
 
 
