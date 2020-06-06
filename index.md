@@ -11,4 +11,11 @@ layout: default
 
 [Sprint 2](./sprint2.html)
 
+[Sprint 3](./sprint3.html)
+
+[Sprint 4](./sprint4.html)
+
+[Agile Principle](./agile-principle.html)
+
 [Project Development](./project-development.html)
+
