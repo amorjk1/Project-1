@@ -1,3 +1,5 @@
+# Sprint 1
+
 ## Introduction
 
 Our first sprint was just to get used to using React-Native and the installation of the other platform such as node.js.

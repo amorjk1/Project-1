@@ -1,3 +1,5 @@
+# Sprint 3
+
 ## Introduction
 
 This sprint was very productive for me, I added the "about us" page and email Josh Perry for the infornation we are about to put in that page such as pictures and other information about the app.

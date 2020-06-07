@@ -1,3 +1,5 @@
+# Sprint 2
+
 ## Introduction
 
 We managed to get the repository for the application but we couldn't figure out which directory is the working one. I had to message the previous developer for the app for us to get the proper application location and get started.
@@ -17,8 +19,6 @@ Getting the application to run on my personal device, it took me a while for me 
 ## What do I need to do for the next sprint?
 
 Communicate with Renz(previous developer) and get the credentials for the account that they used to publish the app so that we can access the database for this app.
-
-
 
 
 [back](./)
