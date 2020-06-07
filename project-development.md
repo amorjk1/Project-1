@@ -34,6 +34,35 @@ I have talked to Renz (previous developer of the project) and he said to use his
 
 ## 05/03/2020
 
-We realized that the reason why the app is not working is when they pushed the project into gitlab, it didn't upload the modules with it so to fix this, we had to install it by typing "npm install"
+We realized that the reason why the app is not working is when they pushed the project into gitlab, it didn't upload the modules with it so to fix this, we had to install it by typing "npm install" then make a new variable “Java/home” then “C:\Program Files\Java\jdk-11.0.5” 
+
+then under user variable, make a new one called "ANDROID_HOME” then value will be “C:\Android\SDK”
+
+then restart the computer
+
+under “node_modules” you will open “metro-config” then “src” then “defaults” then open up blacklist.js and make sure you add the \ to the code like the example below.
+
+#### Before
+
+```js
+var sharedBlacklist = [
+  /node_modules[/\\]react[/\\]dist[/\\].*/,
+  /website\/node_modules\/.*/,
+  /heapCapture\/bundle\.js/,
+  /.*\/__tests__\/.*/
+];
+```
+
+#### After
+
+```js
+var sharedBlacklist = [
+  /node_modules[\/\\]react[\/\\]dist[\/\\].*/,
+  /website\/node_modules\/.*/,
+  /heapCapture\/bundle\.js/,
+  /.*\/__tests__\/.*/
+];
+```
+
 
 [back](./)
