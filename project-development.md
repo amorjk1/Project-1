@@ -28,4 +28,12 @@ var sharedBlacklist = [
 ];
 ```
 
+under \node_modules\metro-config\src\defaults\blacklist.js
+
+I have talked to Renz (previous developer of the project) and he said to use his branch instead of Camerons one as it was the only one working on they're GitLab. We tried it and got the same error that says that it cannot find the Java Compiler.
+
+## 05/03/2020
+
+We realized that the reason why the app is not working is when they pushed the project into gitlab, it didn't upload the modules with it so to fix this, we had to install it by typing "npm install"
+
 [back](./)
