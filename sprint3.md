@@ -19,6 +19,4 @@ I had some problems installing React-native on my home computer so I had to go t
 I will be focusing on fixing the profile page and improve the aesthetic of it.
 
 
-
-
 [back](./)
