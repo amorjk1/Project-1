@@ -65,9 +65,9 @@ var sharedBlacklist = [
 ```
 
 
-#### 12/03/2020
+## 12/03/2020
 
-had to do the about page and followed this <a href="https://www.youtube.com/watch?v=0h2TLGJya4A">YouTube</a> tutorial and it actually helped me understand more about React-native.
+had to do the about page for this project and followed this <a href="https://www.youtube.com/watch?v=0h2TLGJya4A">YouTube</a> tutorial and it actually helped me understand more about React-native.
 
 
 [back](./)
