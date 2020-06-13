@@ -12,9 +12,14 @@ Around Thursday, March 19 2020; we received an email from our customer giving us
 
 ![feedback](https://github.com/amorjk1/Project-1/blob/master/assets/images/feedback.PNG?raw=true)
 
+## Individuals and interactions
+
+One of the 12 principles of agile manifesto is to check on teammates and reflects on how to become more effective.
 
 
 
+>At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+>
 
 
 
