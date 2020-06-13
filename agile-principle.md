@@ -23,7 +23,9 @@ One of the 12 principles of agile manifesto is to check on teammates and reflect
 
 
 
+![standup](https://github.com/amorjk1/Project-1/blob/master/assets/images/standupMeeting.png?raw=true)
 
+![zoom](https://github.com/amorjk1/Project-1/blob/master/assets/images/zoomMeeting.png?raw=true)
 
 
 
