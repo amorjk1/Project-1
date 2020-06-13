@@ -8,7 +8,9 @@ Everytime we finish something in the app, we always make sure that the customer 
 
 ## Responding to change
 
+Around Thursday, March 19 2020; we received an email from our customer giving us feedback about what needs to be changed on the app. This was 5 days before the national lockdown so we only had few days to actually work on it before getting locked out of school. I knew this would be a problem for me because I was having problem running react-native on my home device so I need to get this done within this timeframe. I managed to get the About us page and Aisea managed to fix the login button for the users to navigate easily.
 
+![feedback](https://github.com/amorjk1/Project-1/blob/master/assets/images/feedback.PNG?raw=true)
 
 
 
