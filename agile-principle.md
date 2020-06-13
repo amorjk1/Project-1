@@ -4,6 +4,10 @@ One of the Agile Manifesto is produce a working software even if its finished or
 
 ## Customer collaboration
 
+Everytime we finish something in the app, we always make sure that the customer knows about it as it will help us get a feedback from them on what they think about what we have done in the project, either they like it or not; its a feedback and we can improve on from there.
+
+## Responding to change
+
 
 
 
