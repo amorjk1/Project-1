@@ -69,6 +69,26 @@ var sharedBlacklist = [
 
 had to do the about page for this project and followed this <a href="https://www.youtube.com/watch?v=0h2TLGJya4A">YouTube</a> tutorial and it actually helped me understand more about React-native.
 
+few things to consider:
+
+#### to run it on the simulator.
+_npx run react-native run-android_
+
+#### to run it on my phone.
+_npx run react-native start_
+
+## 16/03/2020
+
+We have added a GitHub widget to our Microsoft Teams Group Project for us to easily check on the current issues we have in the actual project.
+
+I had to create another image for the "About us" page since it does not have a proper image for it at the bottom navigator view.
+
+Managed to do the "About us" page, Aisea emailed Josh Perry about it and quite happy of what we've done so far.
+
+## 22/03/2020
+
+I had to go back to Wellington for a week, during this time I was just reading online on how to improve react-native skills and other tutorials on how to use it.
+
 # Code Evidence
 
 ![evidence1](https://github.com/amorjk1/Project-1/blob/master/assets/images/codeEvidence1.PNG?raw=true)
