@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This sprint was very productive for me, I added the "about us" page and email Josh Perry for the information we are about to put in that page such as pictures and other information about the app.
+This sprint was very productive for me, I added the "about us" page and emailed Josh Perry for the information we are about to put in that page such as pictures and other information about the app.
 
 ![email](https://github.com/amorjk1/Project-1/blob/master/assets/images/email.PNG?raw=true)
 
