@@ -55,5 +55,3 @@ Then run “expo init”
 [back](./)
 
 
-[Link to another page](./another-page.html).
-

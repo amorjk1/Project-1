@@ -26,10 +26,5 @@ We also made sure that we have meetings during lockdown so Grayson set up a zoom
 
 ![zoom](https://github.com/amorjk1/Project-1/blob/master/assets/images/zoomMeeting.png?raw=true)
 
-## Simplicity
-
-
-
-
 
 [back](./)
