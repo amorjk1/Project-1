@@ -71,5 +71,13 @@ had to do the about page for this project and followed this <a href="https://www
 
 # Code Evidence
 
+![evidence1](https://github.com/amorjk1/Project-1/blob/master/assets/images/codeEvidence1.PNG?raw=true)
+
+![evidence2](https://github.com/amorjk1/Project-1/blob/master/assets/images/codeEvidence2.PNG?raw=true)
+
+![evidence3](https://github.com/amorjk1/Project-1/blob/master/assets/images/codeEvidence3.PNG?raw=true)
+
+![evidence4](https://github.com/amorjk1/Project-1/blob/master/assets/images/codeEvidence4.PNG?raw=true)
+
 
 [back](./)
