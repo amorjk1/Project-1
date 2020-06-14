@@ -14,7 +14,7 @@ I really need to focus on what I am currently doing because I always get distrac
 
 ## What were the barriers?
 
-Getting the application to run on my personal device, it took me a while for me to get used to it without asking my colleague's help.
+Getting the application to run on my school machine, it took me a while for me to get used to it without asking my colleague's help.
 
 ## What do I need to do for the next sprint?
 
