@@ -19,11 +19,12 @@ One of the 12 principles of agile manifesto is to check on teammates and reflect
 
 
 >At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
->
 
-
+So we made sure that we do stand up meetings often like what in the picture below.
 
 ![standup](https://github.com/amorjk1/Project-1/blob/master/assets/images/standupMeeting.png?raw=true)
+
+We also made sure that we have meetings during lockdown so Grayson set up a zoom meeting for us to catch up of what we're upto in the project.
 
 ![zoom](https://github.com/amorjk1/Project-1/blob/master/assets/images/zoomMeeting.png?raw=true)
 
